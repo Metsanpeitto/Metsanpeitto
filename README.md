@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=portfolio.waldenberginc.com&style=for-the-badge&url=https%3A%2F%2Fportfolio.waldenberginc.com)](https://portfolio.waldenberginc.com/)
 
-## I'm a Developer, Builder, Cybernetics and Nature enthusiast!!
+## I'm a Developer, Builder, and enthusiast of Cybernetics and Nature!!
 
 - 🔭 I'm currently enrolled in the Microverse Bootcamp!
 - 🌱 I’m always learning
