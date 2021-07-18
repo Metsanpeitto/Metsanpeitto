@@ -1,10 +1,10 @@
 ### Hi there, I'm Abraham Rodriguez  👋
 
-[![Website](https://img.shields.io/website?label=portfolio.waldenberginc.com&style=for-the-badge&url=https%3A%2F%2Fportfolio.waldenberginc.com)](https://portfolio.waldenberginc.com/)
+
 
 <p>
+  [![Website](https://img.shields.io/website?label=portfolio.waldenberginc.com&style=for-the-badge&url=https%3A%2F%2Fportfolio.waldenberginc.com)](https://portfolio.waldenberginc.com/)
   <a href="https://www.linkedin.com/in/abraham-rodriguez-3283a319a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 <a href="https://abraham@waldenberginc.com"><img alt="email" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=email&logoColor=white" /></a>
 </p>
 
@@ -38,5 +38,5 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=,etsanpeitto)](https://github.com/metsanpeitto/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metsanpeitto)](https://github.com/metsanpeitto/github-readme-stats)
 
