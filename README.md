@@ -11,11 +11,11 @@
 
 ## I'm a Developer, Builder, and enthusiast of Cybernetics and Nature!!
 
-- 🔭 I'm currently enrolled in the Microverse Bootcamp!
+- :blue_book: I'm currently enrolled in the Microverse Bootcamp!
 - 🌱 I’m always learning
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love designing electronics and I live in a tiny village
+- :star: I’m looking to collaborate with other content creators
+- :dizzy: 2021 Goals: Build my workshop 
+- :robot: Fun fact: I love designing electronics and I live in a tiny village
 
 ### Connect with me:
 
@@ -40,6 +40,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br>
 <br>
-<p>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metsanpeitto&count_private=true&include_all_commits=true&show_icons=true&&theme=gotham)](https://github.com/metsanpeitto/github-readme-stats)
-</p>
