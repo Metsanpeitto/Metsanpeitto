@@ -21,7 +21,7 @@
 
 <img align="left" alt="portfolio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> https://portfolio.waldenberginc.com
 
-<br />
+
 
 ### Languages and Tools:
 
@@ -46,14 +46,14 @@
 <img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="babel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
 <img align="left" alt="jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
+<br />
 <img align="left" alt="php" width="70px" margin="20px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" />
 <img align="left" alt="firebase" width="70px" margin="20px"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" />
 <img align="left" alt="wordpress" width="70px" margin="20px"  src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" />
 <img align="left" alt="figma" width="70px" margin="20px"  src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" />
-<img align="left" alt="netlify" width="70px" margin=20px"  src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" />
+<img align="left" alt="netlify" width="70px" margin="20px"  src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" />
 <img align="left" alt="jekyll" width="70px" margin="20px"  src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-ar21.svg" />
-<br>
-<br>
+<br />
 
-
+<br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metsanpeitto&count_private=true&include_all_commits=true&show_icons=true&&theme=gotham)](https://github.com/metsanpeitto/github-readme-stats)
