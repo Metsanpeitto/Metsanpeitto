@@ -48,12 +48,12 @@
 <img align="left" alt="jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
 <br />
 <br />
-<img align="left" alt="php" width="70px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" />
-<img align="left" alt="firebase" width="70px" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" />
-<img align="left" alt="wordpress" width="70px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" />
-<img align="left" alt="figma" width="70px" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" />
-<img align="left" alt="netlify" width="70px" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" />
-<img align="left" alt="jekyll" width="70px" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-ar21.svg" />
+<img align="left" alt="php" width="50px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" />
+<img align="left" alt="firebase" width="50px" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" />
+<img align="left" alt="wordpress" width="50px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" />
+<img align="left" alt="figma" width="50px" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" />
+<img align="left" alt="netlify" width="50px" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" />
+<img align="left" alt="jekyll" width="50px" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-ar21.svg" />
 <br />
 
 <br />
