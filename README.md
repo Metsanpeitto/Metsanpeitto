@@ -47,7 +47,7 @@
 <img align="left" alt="babel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
 <img align="left" alt="jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
 <br />
-<br />
+<img align="left" alt="php" height="25px" width="50px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" />
 <img align="left" alt="firebase" width="50px" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" />
 <img align="left" alt="wordpress" width="50px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" />
 <img align="left" alt="figma" width="50px" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" />
