@@ -43,7 +43,7 @@
 <img align="left" alt="heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" alt="sqlite" width="26px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
 <img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-<br/>
-<br/>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metsanpeitto&count_private=true&include_all_commits=true&show_icons=true&&theme=gotham)](https://github.com/metsanpeitto/github-readme-stats)
