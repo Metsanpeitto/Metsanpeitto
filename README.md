@@ -43,18 +43,7 @@
 <img align="left" alt="heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" alt="sqlite" width="26px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
 <img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-<img align="left" alt="babel" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
-<img align="left" alt="jest" width="50px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
-<br />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="php" height="25px" width="50px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" />
-<img align="left" alt="firebase" width="50px" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" />
-<img align="left" alt="wordpress" width="50px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" />
-<img align="left" alt="figma" width="50px" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" />
-<img align="left" alt="netlify" width="50px" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" />
-<img align="left" alt="jekyll" width="50px" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-ar21.svg" />
-<br />
-
-<br />
+<br/>
+<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metsanpeitto&count_private=true&include_all_commits=true&show_icons=true&&theme=gotham)](https://github.com/metsanpeitto/github-readme-stats)
