@@ -1,6 +1,6 @@
 ### Hi there, I'm Abraham Rodriguez  👋
 
-  [![Website](https://img.shields.io/website?label=portfolio.waldenberginc.com&style=for-the-badge&url=https%3A%2F%2Fportfolio.waldenberginc.com)](https://portfolio.waldenberginc.com/)  
+  [![Website](https://img.shields.io/website?label=portfolio.waldenberginc.com&style=for-the-badge&url=https%3A%2F%2Fportfolio.waldenberginc.com)](https://portfolio.waldenberginc.com/)
      
 <p>
   <a href="https://www.linkedin.com/in/abraham-rodriguez-3283a319a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -22,7 +22,6 @@
 
 ### My last Post:
 [How to Sign-up users in an API + Devise + Devise-jwt app on Rails6](https://medium.com/@abraham.asturies/how-to-sign-up-users-in-an-api-devise-devise-jwt-app-without-jumping-to-the-rails-6-2ca12cf7d8a)
-
 
 ### Languages and Tools:
 
