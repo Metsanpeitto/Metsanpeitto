@@ -14,6 +14,7 @@
 - :star: I’m looking to collaborate with other developers
 - :dizzy: 2021 Goals: Build my workshop 
 - :robot: Fun fact: I love designing electronics and I live in a tiny village
+- 
 
 ### Connect with me:
 
