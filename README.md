@@ -15,6 +15,7 @@
 - :dizzy: 2021 Goals: Build my workshop 
 - :robot: Fun fact: I love designing electronics and I live in a tiny village
 
+
 ### Connect with me:
 
 <img align="left" alt="portfolio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> https://portfolio.waldenberginc.com
