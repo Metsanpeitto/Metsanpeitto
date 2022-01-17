@@ -12,7 +12,7 @@
 - :blue_book: I'm currently enrolled in the Microverse Bootcamp!
 - 🌱 I’m always learning
 - :star: I’m looking to collaborate with other developers
-- :dizzy: 2021 Goals: Build my workshop 
+- :dizzy: 2022 Goals: Build my workshop 
 - :robot: Fun fact: I love designing electronics and I live in a tiny village
 
 
