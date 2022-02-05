@@ -9,7 +9,6 @@
 
 ## I'm a Developer, Builder, and enthusiast of Cybernetics and Nature.
 
-- :blue_book: I'm currently enrolled in the Microverse Bootcamp!
 - 🌱 I’m always learning
 - :star: I’m looking to collaborate with other developers
 - :dizzy: 2022 Goals: Build my workshop 
