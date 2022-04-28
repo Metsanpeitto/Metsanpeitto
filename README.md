@@ -11,7 +11,7 @@
 
 - 🌱 I’m always learning
 - :star: I’m looking to collaborate with other developers
-- :dizzy: 2022 Goals: Build my workshop 
+- :dizzy: 2022 Goals: Leave Europe
 - :robot: Fun fact: I love designing electronics and I live in a tiny village
 
 ### Connect with me:
