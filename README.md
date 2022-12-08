@@ -11,9 +11,8 @@
 
 - 🌱 I’m always learning
 - :star: I’m looking to collaborate with other developers
-- :dizzy: 2022 Goals: Leave Europe
-- :robot: Fun fact: I love designing electronics and I live in a tiny village
-
+- :dizzy: 2022 Goals: Build my workshop and more cool projects.
+- :robot: Fun fact: I love designing electronics and I'm the only inhabitant of a little island.
 ### Connect with me:
 
 <img align="left" alt="portfolio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> https://portfolio.waldenberginc.com
