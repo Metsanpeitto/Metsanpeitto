@@ -11,7 +11,7 @@
 
 - 🌱 I’m always learning
 - :star: I’m looking to collaborate with other developers
-- :dizzy: 2022 Goals: Build my workshop and more cool projects.
+- :dizzy: 2023 Goals: Get my own plot of land and start building my e-Homestead.
 - :robot: Fun fact: I love designing electronics and I'm the only inhabitant of a little island.
 ### Connect with me:
 
