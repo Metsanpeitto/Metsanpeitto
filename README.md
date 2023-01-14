@@ -11,9 +11,9 @@
 ## I'm a Developer, Builder, and enthusiast of Cybernetics and Nature.
 
 - 🌱 I’m always learning
-- :star: I’m looking to collaborate with other developers
+- :star: I’m looking to collaborate with other developers in projects that fit the times we are living.
 - :dizzy: 2023 Goals: Get my own plot of land and start building my e-Homestead.
-- :robot: Fun fact: I love designing electronics and I'm the only inhabitant of a little island.
+- :robot: Fun fact: I love designing electronics and I'm the only inhabitant in a little island.
 ### Connect with me:
 
 <img align="left" alt="portfolio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> https://portfolio.waldenberginc.com
